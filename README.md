@@ -3,3 +3,8 @@
 
 ШАГ 7                           Первый коммит
 cd 'd:/Python +Selenium автотестирование/Clon_repozitory\Izuchayu_auto_tests_startoval_1509_2025'
+
+а теперь с помощью проги Github Desktop
+
+
+
